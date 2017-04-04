@@ -6,14 +6,14 @@ There are two important components to a flexbox layout: flex containers and flex
 
 To designate an element as a flex container, set the element's display property to flex or inline-flex. Once an item is a flex container, there are several properties we can use to specify how its children behave. In this lesson we will cover these properties:
 
-justify-items
-align-items
-flex-grow
-flex-shrink
-flex-basis
-flex
-flex-wrap
-align-content
-flex-direction
-flex-flow
+* justify-items
+* align-items
+* flex-grow
+* flex-shrink
+* flex-basis
+* flex
+* flex-wrap
+* align-content
+* flex-direction
+* flex-flow
 Flexbox is an elegant tool that makes it easy to address positioning issues that may have been difficult before. Let's get started!
